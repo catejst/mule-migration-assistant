@@ -100,7 +100,7 @@
         <mockito.version>2.23.0</mockito.version>
         <xmlunit.version>2.5.1</xmlunit.version>
         <powermock.module.junit4>2.0.0-beta.5</powermock.module.junit4>
-        <snakeyaml.version>1.26</snakeyaml.version>
+        <snakeyaml.version>1.32</snakeyaml.version>
 
         <maven.model.version>3.5.0</maven.model.version>
 
